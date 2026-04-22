@@ -1,0 +1,11 @@
+# Agentes e ferramentas
+.agents/
+.gemini/
+antigravity/
+
+# Temporários do Windows
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
